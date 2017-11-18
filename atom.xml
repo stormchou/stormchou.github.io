@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://stormchou.github.io/"/>
-  <updated>2017-11-17T02:43:13.126Z</updated>
+  <updated>2017-11-17T02:42:59.804Z</updated>
   <id>https://stormchou.github.io/</id>
   
   <author>
@@ -15,52 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>second</title>
-    <link href="https://stormchou.github.io/2017/11/16/second/"/>
-    <id>https://stormchou.github.io/2017/11/16/second/</id>
-    <published>2017-11-16T14:54:16.000Z</published>
-    <updated>2017-11-17T02:43:13.126Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h1>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;你好&quot;&gt;&lt;a href=&quot;#你好&quot; class=&quot;headerlink&quot; title=&quot;你好&quot;&gt;&lt;/a&gt;你好&lt;/h1&gt;
-      
-    
-    </summary>
-    
-    
-      <category term="css" scheme="https://stormchou.github.io/tags/css/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>myfirst</title>
-    <link href="https://stormchou.github.io/2017/11/16/myfirst/"/>
-    <id>https://stormchou.github.io/2017/11/16/myfirst/</id>
-    <published>2017-11-16T14:13:48.000Z</published>
-    <updated>2017-11-17T02:42:40.050Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="周捷生"><a href="#周捷生" class="headerlink" title="周捷生"></a>周捷生</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;div id=<span class="string">"one"</span>&gt;你好&lt;/div&gt;</span><br><span class="line"><span class="function"><span class="title">function</span></span> () &#123;</span><br><span class="line">alert(2);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;周捷生&quot;&gt;&lt;a href=&quot;#周捷生&quot; class=&quot;headerlink&quot; title=&quot;周捷生&quot;&gt;&lt;/a&gt;周捷生&lt;/h1&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;sp
-      
-    
-    </summary>
-    
-    
-      <category term="html" scheme="https://stormchou.github.io/tags/html/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
