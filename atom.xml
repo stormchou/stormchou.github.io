@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://stormchou.github.io/"/>
-  <updated>2017-12-07T07:28:19.168Z</updated>
+  <updated>2017-12-07T07:38:03.661Z</updated>
   <id>https://stormchou.github.io/</id>
   
   <author>
@@ -17,11 +17,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>zjs</title>
+    <link href="https://stormchou.github.io/2017/12/07/zjs/"/>
+    <id>https://stormchou.github.io/2017/12/07/zjs/</id>
+    <published>2017-12-07T07:38:03.000Z</published>
+    <updated>2017-12-07T07:38:03.661Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>ES5语法总结</title>
     <link href="https://stormchou.github.io/2017/12/07/ES5%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93/"/>
     <id>https://stormchou.github.io/2017/12/07/ES5语法总结/</id>
     <published>2017-12-07T07:26:59.000Z</published>
-    <updated>2017-12-07T07:28:19.168Z</updated>
+    <updated>2017-12-07T07:37:50.610Z</updated>
     
     <content type="html"><![CDATA[<h2 id="分分"><a href="#分分" class="headerlink" title="分分"></a>分分</h2>]]></content>
     
@@ -35,7 +49,7 @@
     </summary>
     
     
-      <category term="JavaScript ES5 学习笔记" scheme="https://stormchou.github.io/tags/JavaScript-ES5-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="JavaScript" scheme="https://stormchou.github.io/tags/JavaScript/"/>
     
   </entry>
   
